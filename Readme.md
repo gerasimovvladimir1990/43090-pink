@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Владимир Герасимов](https://up.htmlacademy.ru/adaptive/14/user/43090).
-* Наставник: `Неизвестно`.
+* Студент: [Владимир Герасимов](https://up.htmlacademy.ru/adaptive/14/user/43090)(https://github.com/gerasimovvladimir1990).
+* Наставник: [Антон Ахатов](https://github.com/gcor).
 
 ---
 
